@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Simple Node.js/Express app using Nodemailer to send emails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^7.0.0",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "googleapis": "^39.2.0",
+    "nodemailer": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristian91/portfolio.git"
+  },
+  "author": "Arthur Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achristian91/portfolio/issues"
+  },
+  "homepage": "https://github.com/achristian91/portfolio#readme"
+}

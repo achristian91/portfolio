@@ -1510,6 +1510,11 @@ header .header-mobile .header-toggle i {
     border-radius: 0;
 }
 
+#thankyoumsg {
+    text-align: center;
+    padding: 251px;
+}
+
 
 /*============ 10. Ajax Portfolio ============*/
 
